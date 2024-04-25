@@ -1,0 +1,1 @@
+## Simple ecoonomy bot 
